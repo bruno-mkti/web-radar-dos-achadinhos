@@ -7,6 +7,6 @@
   4. Se desejar, informe seu ID de mensuração do Google Analytics 4 em ga4MeasurementId.
 */
 window.RADAR_CONFIG = {
-  whatsappInviteUrl: "", // Ex.: "https://chat.whatsapp.com/SEU_CODIGO"
+  whatsappInviteUrl: "https://chat.whatsapp.com/JRToPxaLybeK6W2DRBqf6V?s=cl&p=a&mlu=4&ilr=4", // Ex.: "https://chat.whatsapp.com/SEU_CODIGO"
   ga4MeasurementId: ""   // Ex.: "G-XXXXXXXXXX"
 };
